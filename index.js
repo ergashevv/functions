@@ -1,4 +1,4 @@
-const MyFunction = function (name) {
+const MyFunction = function () {
     console.log("Function expression")
 }
 
@@ -10,8 +10,4 @@ const MyArrowFunction = () => {
     console.log("Arrow function");
 }
 
-MyFunction()
-
-DeclaredFunction()
-
-MyArrowFunction()
+// if else switch function 
